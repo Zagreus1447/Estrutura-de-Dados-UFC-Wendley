@@ -1,0 +1,3 @@
+FileWriter arq = new FileWriter("c:\\Tabuada.txt", true);
+
+ao alterar a 15 linha do exercicio, o arquivo criado passa a parar de sobrescrever o arquivo anterior e agora escreve em sequência no mesmo arquivo.
