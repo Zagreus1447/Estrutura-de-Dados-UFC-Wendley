@@ -6,7 +6,7 @@ package pratica5;
         import java.util.Scanner;
 /**
  *
- * @author azael
+ * @author Zag
  */
 public class Arquivo {
 
